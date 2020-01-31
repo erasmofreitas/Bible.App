@@ -32,6 +32,7 @@ namespace Bible.App
             containerRegistry.RegisterForNavigation<MainPage, MainPageViewModel>();
             containerRegistry.RegisterForNavigation<BibleBook, BibleBookViewModel>();
             containerRegistry.RegisterForNavigation<HymnBook, HymnBookViewModel>();
+            containerRegistry.RegisterForNavigation<LoadingHome, LoadingHomeViewModel>();
         }
     }
 }

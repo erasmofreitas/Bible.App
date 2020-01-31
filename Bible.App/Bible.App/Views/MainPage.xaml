@@ -10,6 +10,6 @@
              Title="{Binding Title}">
 
     <pages:BibleBook Title="Biblia" Icon="bible26.png" />
-    <pages:HymnBook Title="Harpa" Icon="hymn50.png" />
+    <pages:HymnBook Title="Harpa Cristã" Icon="hymn50.png" />
 
 </TabbedPage>
